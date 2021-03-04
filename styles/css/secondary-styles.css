@@ -1,4 +1,5 @@
-.hero {
+
+  .hero {
     background-position: bottom;
     height: auto;
     text-align: center;
@@ -40,4 +41,3 @@
     color: #39a6b2;
     margin: 10px 0;
   }
-  
